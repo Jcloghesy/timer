@@ -4,17 +4,17 @@
 
 ***First Code Review Course Requirement***
 
-	This repository was created in order to fulfill the first code review requirement contained with the first module of [Lighthouse Labs' - Web Development Program][Lighthouse Labs - Web Development Program].  
+* This repository was created in order to fulfill the first code review requirement contained with the first module of [Lighthouse Labs' - Web Development Program][Lighthouse Labs - Web Development Program].  
 
 
 
 ***General Exercise Overview*** 
 
-	Exercise combines student's prior experience with command line arguments and asynchronous programming in JavaScript in order to implement a simple timer/alarm function.  
+* Exercise combines student's prior experience with command line arguments and asynchronous programming in JavaScript in order to implement a simple timer/alarm function.  
 
 ***Specific Functional Requirements***
 
-	Timer/alarm function intakes a series of times from the user that determine the number & timing (delay) that function returns a beep via computer speaker.  
+* Timer/alarm function intakes a series of times from the user that determine the number & timing (delay) that function returns a beep via computer speaker.  
  		* User can input series of numbers (times) via command line when running app 
  		* Function returns series of beeps: 
 			* number of beeps equal to number of inputted times
